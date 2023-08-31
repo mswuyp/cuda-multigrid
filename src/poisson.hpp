@@ -1,6 +1,7 @@
 #pragma once
 #include <grid.hpp>
 #include <algorithm>
+#include <cstring>
 // Solves Poisson's equation: Lu = f, Lu = u_xx + u_yy
 
 template <typename T>
